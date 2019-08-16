@@ -1,4 +1,6 @@
 #!/bin/bash
+# All this content is from timekillerj/polyglot-unraid
+# I am using it to learn how this is done
 
 echo "########################################################################################"
 echo "Staring Polyglot Install ......"

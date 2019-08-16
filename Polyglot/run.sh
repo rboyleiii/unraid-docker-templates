@@ -1,4 +1,7 @@
 #!/bin/bash
+# All this content is from timekillerj/polyglot-unraid
+# I am using it to learn how this is done
+
 set -e
 
 mongod --bind_ip 127.0.0.1 &
